@@ -1,7 +1,6 @@
 # 💫 About Me:
-<hr>
 Full-stack developer | Software architect on Coopeguanacaste R.L. <br>
-I am a Software Engineer specializing in Full Stack Development and Software Architecture. My passion is creating robust and scalable solutions that drive technological innovation.
+I am a Software Engineer specializing in Full Stack Development and Software Architecture. My passion is creating robust and scalable solutions that drive technological innovation.<br>
 I am always seeking new challenges and opportunities to learn. Explore my repositories to see some of my projects!
 
 
