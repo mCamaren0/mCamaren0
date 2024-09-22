@@ -1,4 +1,4 @@
-# 🚀 Maikol Camareno Peña | Full-Stack Developer
+# 🚀 Maikol Camareno Peña | Full-Stack Developer & Software Architect
 
 ## 🌟 Sobre mí
 Soy un apasionado ingeniero de software con experiencia en desarrollo Full-Stack y arquitectura de software. Actualmente, estoy aplicando mis habilidades en Coopeguanacaste R.L., donde combino mi experiencia técnica con mi visión estratégica para crear soluciones innovadoras y escalables.
